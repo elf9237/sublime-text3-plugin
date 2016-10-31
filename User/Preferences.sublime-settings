@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/ayu/ayu.tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "ayu.sublime-theme"
+}

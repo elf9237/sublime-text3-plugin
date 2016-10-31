@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"ayu",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"GitSavvy",
+		"Goto-CSS-Declaration",
+		"HTML-CSS-JS Prettify",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Eightlime",
+		"Theme - Hero"
+	]
+}
