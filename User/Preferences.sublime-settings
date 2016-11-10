@@ -1,9 +1,9 @@
 {
-	"color_scheme": "Packages/ayu/ayu.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Eightlime Dark (SL).tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "ayu.sublime-theme"
+	"theme": "Flatland Dark.sublime-theme"
 }

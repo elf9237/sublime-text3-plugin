@@ -9,20 +9,27 @@
 		"Autoprefixer",
 		"ayu",
 		"BracketHighlighter",
+		"Cobalt2 Flat Theme",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"GitSavvy",
 		"Goto-CSS-Declaration",
 		"HTML-CSS-JS Prettify",
+		"JSHint Gutter",
 		"Nettuts+ Fetch",
 		"Package Control",
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Tag",
+		"Theme - Cola",
 		"Theme - Eightlime",
-		"Theme - Hero"
+		"Theme - Flatland",
+		"Theme - Hero",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
